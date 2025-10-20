@@ -12,4 +12,4 @@ Auf GitHub dokumentieren, teilen und verbessern wir alles von unseren Skripten u
 ## Kontakt und Mitwirkung
 Interessierte am Theater sind herzlich eingeladen, mit uns in Kontakt zu treten und Teil unseres kreativen Teams zu werden. Wir schätzen jede Form von Unterstützung und Zusammenarbeit.
 
-http://theater.kolping-ramsen.de/
+http://kolpingtheater-ramsen.de/
